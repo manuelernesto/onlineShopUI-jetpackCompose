@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FFFFFF</color>
+    <color name="purple_700">#FFACACAC</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="title_color">#535353</color>
+    <color name="text_light_color">#ACACAC</color>
+    <color name="text_dark_color">#535353</color>
+    <color name="office_code_color">#3D82AE</color>
+    <color name="belt_bag_color">#D3A984</color>
+    <color name="old_fashion_color">#E6B398</color>
+    <color name="hang_top_color">#989493</color>
+    <color name="hiclipart_color">#FB7883</color>
+    <color name="women_bag_color">#AEAEAE</color>
+</resources>
